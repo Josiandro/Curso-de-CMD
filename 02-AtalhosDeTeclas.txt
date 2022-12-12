@@ -1,0 +1,27 @@
+Setas para CIMA ou para BAIXO recuperam comandos
+
+---------------------------------------------
+
+Esc - Limpa a linha de comando
+
+---------------------------------------------
+
+F7 - Exibe o histórico de comandos usados
+
+---------------------------------------------
+
+Alt + F7 - Limpa o histórico de comandos usados
+
+---------------------------------------------
+
+F8 - Pesquisa histórico de comandos
+
+---------------------------------------------
+
+F9 - Seleciona um comando por número
+
+---------------------------------------------
+
+Alt + F10 - Limpa as definições de macros
+
+---------------------------------------------
