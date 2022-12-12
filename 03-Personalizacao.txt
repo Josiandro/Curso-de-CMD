@@ -1,0 +1,41 @@
+Title - Muda o título do terminal
+
+Comando: title Nome do terminal
+
+---------------------------------------------
+
+Color - Permite alterar as cores do terminal 
+
+Comando: Color
+
+Para mais detalhes, usar o help Color
+
+---------------------------------------------
+
+Mode - Alterar tamanho da janela do terminal
+
+Comando: mode status
+    - Exibe o tamanho atual da janela
+
+Comando: mode 200
+    - Altera o número de colunas
+
+Comando: mode 200, 40
+    - Altera o número de colunas e de linhas
+
+Comando: mode con: lines=5 cols=20
+    - Altera linhas e colunas do terminal
+
+---------------------------------------------
+
+Prompt - Alterar o patch do prompt, que é o C:\>
+
+Para ver as opções, pode ser usado o help prompt ou prompt /?
+
+Também pode ser passado um texto qualquer
+Comando: prompt texto aleatório
+
+Prompt sem parâmetro algum, reseta os valores para o padrão
+
+---------------------------------------------
+
