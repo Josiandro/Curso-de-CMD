@@ -1,0 +1,76 @@
+CLS - Usado para limpar o terminal
+
+Comando: cls
+---------------------------------------------
+
+Echo - Usado para listar textos na terminal
+    
+Comando: echo Teste
+
+---------------------------------------------
+
+Echo On - Usado para ativar o Echo
+
+Comando: echo on
+
+---------------------------------------------
+
+Echo off - Usado para desativar o Echo
+
+Comando: echo off
+
+---------------------------------------------
+
+Vol - Usado para ver informações do volume/unidade 
+
+Comando: vol c:
+
+---------------------------------------------
+
+Ver - Usado para ver a versão atual do SO
+
+Comando: ver
+
+---------------------------------------------
+
+Winver - Também é usado para ver a versão atual do SO
+
+Comando: winver
+
+---------------------------------------------
+
+Clip - Usado em conjunto com outro comando, copia algo para área de transferência
+
+Comando: echo teste | clip
+Depois, basta dar CTRL + V no bloco de notas, por exemplo
+
+---------------------------------------------
+
+Date - Usado para alterar a data do SO ou para visualiza-la apenas
+
+Comando (alterar): Date
+Comando (alterar): Date 01/01/1991
+Comando (visualizar): Date /t
+
+---------------------------------------------
+
+Time - Usado para alterar a hora do SO ou para visualiza-la apenas
+
+Comando (alterar): Time
+Comando (alterar): Time 17:30
+Comando (visualizar): Date /t
+
+---------------------------------------------
+
+Start - Usado para iniciar aplicativos/programas
+
+Comando: start winmerge
+Comando: start www.youtube.com.br
+---------------------------------------------
+
+Exit - Encerrar o prompt de comando
+
+Comando: exit
+
+---------------------------------------------
+
